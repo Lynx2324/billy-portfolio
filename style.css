@@ -1,0 +1,28 @@
+body{
+    background-color: gray;
+    height: 100vh;
+    color: white;
+    text-align: left;
+}
+.container{
+    width: 60%;
+    height: 100%;
+    background-color: black;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 15px;
+}
+.header{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    border-radius: 50px;
+}
+.header img{
+    width: 150px;
+    height: 80px;
+}
+.footer{
+    text-align: center;
+}
+
